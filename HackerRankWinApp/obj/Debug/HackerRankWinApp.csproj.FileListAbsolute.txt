@@ -1,0 +1,8 @@
+C:\AllFol\AllGitHub\Source\Repos\HackerRankSolved\HackerRankWinApp\bin\Debug\HackerRank.exe.config
+C:\AllFol\AllGitHub\Source\Repos\HackerRankSolved\HackerRankWinApp\bin\Debug\HackerRank.exe
+C:\AllFol\AllGitHub\Source\Repos\HackerRankSolved\HackerRankWinApp\bin\Debug\HackerRank.pdb
+C:\AllFol\AllGitHub\Source\Repos\HackerRankSolved\HackerRankWinApp\obj\Debug\HackerRank.Properties.Resources.resources
+C:\AllFol\AllGitHub\Source\Repos\HackerRankSolved\HackerRankWinApp\obj\Debug\HackerRank.TestRunner.resources
+C:\AllFol\AllGitHub\Source\Repos\HackerRankSolved\HackerRankWinApp\obj\Debug\HackerRankWinApp.csproj.GenerateResource.Cache
+C:\AllFol\AllGitHub\Source\Repos\HackerRankSolved\HackerRankWinApp\obj\Debug\HackerRank.exe
+C:\AllFol\AllGitHub\Source\Repos\HackerRankSolved\HackerRankWinApp\obj\Debug\HackerRank.pdb
