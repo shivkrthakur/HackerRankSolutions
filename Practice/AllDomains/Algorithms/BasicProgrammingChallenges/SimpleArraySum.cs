@@ -3,9 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 class Solution {
-	/*
-		author:@shivkrthakur
-	*/
+	/*	author:@shivkrthakur  */
     static void Main(String[] args) {
         int n = Convert.ToInt32(Console.ReadLine());
         string[] arr_temp = Console.ReadLine().Trim().Split(' ');

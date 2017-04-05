@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 class Solution {
+	/*	author:@shivkrthakur  */
     static int solveMeFirst(int a, int b) { 
         return a + b;
       // Hint: Type return a+b; below  
