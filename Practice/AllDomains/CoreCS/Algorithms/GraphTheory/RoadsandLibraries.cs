@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 class Solution {
-
+    /*	author:@shivkrthakur  */
     static void Main(String[] args) {
         int q = Convert.ToInt32(Console.ReadLine());
         for(int a0 = 0; a0 < q; a0++){
