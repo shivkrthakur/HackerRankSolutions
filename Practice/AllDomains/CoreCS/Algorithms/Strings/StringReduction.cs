@@ -1,11 +1,11 @@
+/*	author:@shivkrthakur  */
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 class Solution 
 {
-	/*	author:@shivkrthakur  */
-    static int ReduceString(string s, string tgt, string rep)
+   static int ReduceString(string s, string tgt, string rep)
     {
         var dict = new Dictionary<char,int>() {	{ 'a', 0 },	{ 'b', 0 },	{ 'c', 0 } };
         for(int j = 0; j < s.Length; j++) dict[s[j]]++;
