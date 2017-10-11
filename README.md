@@ -1,0 +1,55 @@
+# C#, JavaScript, Java solutions to the HackerRank programming problems.
+
+1. Core Computer Science 
+	DATA STRUCTURES
+		Arrays
+			2DArray-DS.cs
+			2DArray-DS.js
+			Arrays-DS.cs
+			Arrays-DS.js
+			BigSorting.cs
+			BigSorting.js
+			DynamicArray.cs
+			DynamicArray.js
+			LeftRotation.cs
+			LeftRotation.js
+			SparseArrays.cs
+			SparseArrays.js
+		LinkedLists
+			InsertaNodeattheTailofaLinkedList.java
+			InsertaNodeattheTailofaLinkedList.js
+			Insertanodeattheheadofalinkedlist.java
+			Insertanodeattheheadofalinkedlist.js
+			PrinttheElementsofaLinkedList.java
+			PrinttheElementsofaLinkedList.js
+	ALGORITHMS
+		Strings
+			AlternatingCharacters.cs
+			AlternatingCharacters.js
+			Anagram.cs
+			Anagram.js
+			BearAndSteadyGene.cs
+			BeautifulBinaryString.cs
+			BeautifulBinaryString.js
+			CaesarCipher.cs
+			CaesarCipher.js
+			CamelCase.cs
+			CamelCase.js
+			GameOfThronesII.cs
+			GemStones.cs
+			GemStones.js
+			MarsExploration.cs
+			MarsExploration.js
+			Pangrams.cs
+			Pangrams.js
+			SeparatetheNumbers.cs
+			SeparatetheNumbers.js
+			SherlockandtheValidString.cs
+			SherlockandtheValidString.js
+			StringReduction.cs
+			SuperReducedString.cs
+			SuperReducedString.js
+			TheLoveLetterMystery.cs
+			TheLoveLetterMystery.js
+			TwoCharacters.cs
+			TwoCharacters.js
