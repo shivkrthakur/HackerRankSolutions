@@ -1,9 +1,0 @@
-C:\Users\sthakur\Documents\Visual Studio 2015\Projects\AllRND\HackerRank\obj\Debug\HackerRank.csprojResolveAssemblyReference.cache
-C:\Users\sthakur\Documents\Visual Studio 2015\Projects\AllRND\HackerRank\obj\Debug\HackerRank.Properties.Resources.resources
-C:\Users\sthakur\Documents\Visual Studio 2015\Projects\AllRND\HackerRank\obj\Debug\HackerRank.csproj.GenerateResource.Cache
-C:\Users\sthakur\Documents\Visual Studio 2015\Projects\AllRND\HackerRank\bin\Debug\HackerRank.exe.config
-C:\Users\sthakur\Documents\Visual Studio 2015\Projects\AllRND\HackerRank\bin\Debug\HackerRank.exe
-C:\Users\sthakur\Documents\Visual Studio 2015\Projects\AllRND\HackerRank\bin\Debug\HackerRank.pdb
-C:\Users\sthakur\Documents\Visual Studio 2015\Projects\AllRND\HackerRank\obj\Debug\HackerRank.TestRunner.resources
-C:\Users\sthakur\Documents\Visual Studio 2015\Projects\AllRND\HackerRank\obj\Debug\HackerRank.exe
-C:\Users\sthakur\Documents\Visual Studio 2015\Projects\AllRND\HackerRank\obj\Debug\HackerRank.pdb
