@@ -1,55 +1,48 @@
-# C#, JavaScript, Java solutions to the HackerRank programming problems.
+<h2>C#, JavaScript, Java solutions to the HackerRank programming problems</h1>
 
-1. Core Computer Science 
-	DATA STRUCTURES
-		Arrays
-			2DArray-DS.cs
-			2DArray-DS.js
-			Arrays-DS.cs
-			Arrays-DS.js
-			BigSorting.cs
-			BigSorting.js
-			DynamicArray.cs
-			DynamicArray.js
-			LeftRotation.cs
-			LeftRotation.js
-			SparseArrays.cs
-			SparseArrays.js
-		LinkedLists
-			InsertaNodeattheTailofaLinkedList.java
-			InsertaNodeattheTailofaLinkedList.js
-			Insertanodeattheheadofalinkedlist.java
-			Insertanodeattheheadofalinkedlist.js
-			PrinttheElementsofaLinkedList.java
-			PrinttheElementsofaLinkedList.js
-	ALGORITHMS
-		Strings
-			AlternatingCharacters.cs
-			AlternatingCharacters.js
-			Anagram.cs
-			Anagram.js
-			BearAndSteadyGene.cs
-			BeautifulBinaryString.cs
-			BeautifulBinaryString.js
-			CaesarCipher.cs
-			CaesarCipher.js
-			CamelCase.cs
-			CamelCase.js
-			GameOfThronesII.cs
-			GemStones.cs
-			GemStones.js
-			MarsExploration.cs
-			MarsExploration.js
-			Pangrams.cs
-			Pangrams.js
-			SeparatetheNumbers.cs
-			SeparatetheNumbers.js
-			SherlockandtheValidString.cs
-			SherlockandtheValidString.js
-			StringReduction.cs
-			SuperReducedString.cs
-			SuperReducedString.js
-			TheLoveLetterMystery.cs
-			TheLoveLetterMystery.js
-			TwoCharacters.cs
-			TwoCharacters.js
+<ul>
+	<li><h3>Core Computer Science</h3>
+		<ul>
+			<li>DATA STRUCTURES
+				<ul>
+					<li>Arrays
+						<ul>
+							<li>2DArray-DS.cs</li>
+							<li>2DArray-DS.js</li>
+							<li>Arrays-DS.cs</li>
+							<li>Arrays-DS.js</li>
+							<li>BigSorting.cs</li>
+							<li>BigSorting.js</li>
+							<li>DynamicArray.cs</li>
+							<li>DynamicArray.js</li>
+							<li>LeftRotation.cs</li>
+							<li>LeftRotation.js</li>
+							<li>SparseArrays.cs</li>
+							<li>SparseArrays.js</li>
+						</ul>
+					</li>
+				</ul>
+				<ul>
+					<li>LinkedLists
+						<ul>
+							<li>InsertaNodeattheTailofaLinkedList.java</li>
+							<li>InsertaNodeattheTailofaLinkedList.js</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+		</ul>
+		<ul>
+			<li>ALGORITHMS
+				<ul>
+					<li>Strings
+						<ul>
+							<li>AlternatingCharacters.cs</li>
+							<li>AlternatingCharacters.js</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
