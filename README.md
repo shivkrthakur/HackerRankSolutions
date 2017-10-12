@@ -1,9 +1,9 @@
 <h2>C#, JavaScript, Java, SQL solutions to the HackerRank programming problems</h1>
 
 <ul>
-	<li><h3>Core Computer Science</h3>
+	<li><h3><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS">Core Computer Science</a></h3>
 		<ul>
-			<li>DATA STRUCTURES
+			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/DataStructures">DATA STRUCTURES</a>
 				<ul>
 					<li>Arrays
 						<ul>
