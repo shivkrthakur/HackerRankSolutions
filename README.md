@@ -1,11 +1,11 @@
 <h2>C#, JavaScript, Java, SQL solutions to the HackerRank programming problems</h1>
 
 <ul>
-	<li><h3><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS">Core Computer Science</a></h3>
+	<li><h3><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS">CORE COMPUTER SCIENCE</a></h3>
 		<ul>
-			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/DataStructures">DATA STRUCTURES</a>
+			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/DataStructures">Data Structures</a>
 				<ul>
-					<li>Arrays
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/DataStructures/Arrays">Arrays</a>
 						<ul>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/2DArray-DS.cs">2DArray-DS.cs</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/2DArray-DS.js">2DArray-DS.js</a></li>
@@ -41,7 +41,7 @@
 			</li>
 		</ul>
 		<ul>
-			<li>ALGORITHMS
+			<li>Algorithms
 				<ul>
 					<li>Strings
 						<ul>
