@@ -1,4 +1,4 @@
-<h2>C#, JavaScript, Java solutions to the HackerRank programming problems</h1>
+<h2>C#, JavaScript, Java, SQL solutions to the HackerRank programming problems</h1>
 
 <ul>
 	<li><h3>Core Computer Science</h3>
@@ -47,6 +47,8 @@
 						<ul>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/AlternatingCharacters.cs">Alternating Characters.cs</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/AlternatingCharacters.js">Alternating Characters.js</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/Anagram.cs">Anagram.cs</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/Anagram.js">Anagram.js</a></li>
 						</ul>
 					</li>
 				</ul>
