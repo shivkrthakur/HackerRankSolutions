@@ -53,8 +53,12 @@
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/BeautifulBinaryString.js">BeautifulBinaryString.js</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/PalindromeIndex.cs">PalindromeIndex.cs</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/PalindromeIndex.js">PalindromeIndex.js</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/CaesarCipher.cs">CaesarCipher.cs</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/CaesarCipher.js">CaesarCipher.js</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/CaesarCipherEncryption.cs">CaesarCipherEncryption.cs</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/CaesarCipherEncryption.js">CaesarCipherEncryption.js</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/FunnyString.cs">FunnyString.cs</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/FunnyString.js">FunnyString.js</a></li>
 						</ul>
 					</li>
 				</ul>
