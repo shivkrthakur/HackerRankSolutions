@@ -23,7 +23,7 @@
 					</li>
 				</ul>
 				<ul>
-					<li>Stacks
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/DataStructures/Stacks">Stacks</a>
 						<ul>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Stacks/BalancedBrackets.cs">Balanced Brackets.cs</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Stacks/BalancedBrackets.js">Balanced Brackets.js</a></li>
@@ -31,7 +31,7 @@
 					</li>
 				</ul>
 				<ul>
-					<li>Trees
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/DataStructures/Trees">Trees</a>
 						<ul>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Trees/BinarySearchTreeInsertion.java">Binary SearchTree Insertion.java</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Trees/BinarySearchTreeLowestCommonAncestor.java">Binary Search Tree Lowest Common Ancestor.java</a></li>
