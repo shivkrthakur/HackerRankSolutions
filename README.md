@@ -72,5 +72,33 @@
 				</ul>
 			</li>
 		</ul>
+		<ul>
+			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming">General Programming</a>
+				<ul>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming">Basic Programming</a>
+					</li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming/ObjectOrientedProgramming">Object-oriented Programming</a>
+					</li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming/RegEx">RegEx</a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+		<ul>
+			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Implementation">Implementation</a>
+				<ul>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Implementation/BruteForce">Brute Force</a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+		<ul>
+			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Debugging">Debugging</a>
+				<ul>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Debugging/MissingLines">Missing Lines</a>
+					</li>
+				</ul>
+			</li>
+		</ul>
 	</li>
 </ul>
