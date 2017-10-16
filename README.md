@@ -101,4 +101,28 @@
 			</li>
 		</ul>
 	</li>
+	<li><h3><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/SpecializedSkills">Specialized Skills</a></h3>
+		<ul>
+			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/SpecializedSkills/SQL">SQL</a>
+				<ul>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/SpecializedSkills/SQL/MSSQL">MSSQL</a>
+						<ul>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/SpecializedSkills/SQL/MSSQL/Advanced%20Join">Advanced Join</a>
+							</li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/SpecializedSkills/SQL/MSSQL/Advanced%20Select">Advanced Select</a>
+							</li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/SpecializedSkills/SQL/MSSQL/Aggregation">Aggregation</a>
+							</li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/SpecializedSkills/SQL/MSSQL/Alternative%20Queries">Alternative Queries</a>
+							</li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/SpecializedSkills/SQL/MSSQL/Basic%20Join">Basic Join</a>
+							</li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/SpecializedSkills/SQL/MSSQL/Basic%20Select">Basic Select</a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
 </ul>
