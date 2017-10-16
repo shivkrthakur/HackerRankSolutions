@@ -61,12 +61,12 @@
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/FunnyString.js">FunnyString.js</a></li>
 						</ul>
 					</li>
-					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/Strings">GameTheory</a></li>
-					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/Strings">GraphTheory</a></li>
-					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/Strings">GreedyAlgorithms</a></li>
-					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/Strings">Search</a></li>
-					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/Strings">Sorting</a></li>
-					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/Strings">Math</a></li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/GameTheory">GameTheory</a></li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/GraphTheory">GraphTheory</a></li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/GreedyAlgorithms">GreedyAlgorithms</a></li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/Search">Search</a></li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/Sorting">Sorting</a></li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/Math">Math</a></li>
 				</ul>
 			</li>
 		</ul>
