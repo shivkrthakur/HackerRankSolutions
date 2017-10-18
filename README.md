@@ -1,5 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
 <h2>C#, JavaScript, Java, SQL solutions to the HackerRank programming problems</h1>
-
 <ul>
 	<li><h3><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS">CORE COMPUTER SCIENCE</a></h3>
 		<ul>
@@ -63,6 +67,8 @@
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/CamelCase.js">CamelCase.js</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/FunnyString.cs">FunnyString.cs</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/FunnyString.js">FunnyString.js</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/GameOfThronesII.cs">GameOfThronesII.cs</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/GameOfThronesII.js">GameOfThronesII.js</a></li>
 						</ul>
 					</li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/GameTheory">GameTheory</a></li>
@@ -128,3 +134,5 @@
 		</ul>
 	</li>
 </ul>
+</body>
+</html>
