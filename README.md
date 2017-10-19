@@ -11,26 +11,19 @@
 				<ul>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/DataStructures/Arrays">Arrays</a>
 						<ul>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/2DArray-DS.cs">2DArray-DS.cs</a></li>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/2DArray-DS.js">2DArray-DS.js</a></li>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/Arrays-DS.cs">Arrays-DS.cs</a></li>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/Arrays-DS.js">Arrays-DS.js</a></li>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/BigSorting.cs">Big Sorting.cs</a></li>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/BigSorting.js">Big Sorting.js</a></li>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/DynamicArray.cs">Dynamic Array.cs</a></li>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/DynamicArray.js">Dynamic Array.js</a></li>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/LeftRotation.cs">Left Rotation.cs</a></li>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/LeftRotation.js">Left Rotation.js</a></li>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/SparseArrays.cs">Sparse Arrays.cs</a></li>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/SparseArrays.js">Sparse Arrays.js</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/2DArray-DS.cs">2DArray-DS.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/2DArray-DS.js">2DArray-DS.js</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/Arrays-DS.cs">Arrays-DS.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/Arrays-DS.js">Arrays-DS.js</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/BigSorting.cs">Big Sorting.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/BigSorting.js">Big Sorting.js</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/DynamicArray.cs">Dynamic Array.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/DynamicArray.js">Dynamic Array.js</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/LeftRotation.cs">Left Rotation.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/LeftRotation.js">Left Rotation.js</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/SparseArrays.cs">Sparse Arrays.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/SparseArrays.js">Sparse Arrays.js</a></li>
 						</ul>
 					</li>
 				</ul>
 				<ul>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/DataStructures/Stacks">Stacks</a>
 						<ul>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Stacks/BalancedBrackets.cs">Balanced Brackets.cs</a></li>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Stacks/BalancedBrackets.js">Balanced Brackets.js</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Stacks/BalancedBrackets.cs">Balanced Brackets.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Stacks/BalancedBrackets.js">Balanced Brackets.js</a></li>
 						</ul>
 					</li>
 				</ul>
@@ -58,7 +51,8 @@
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/CaesarCipherEncryption.cs">CaesarCipherEncryption.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/CaesarCipherEncryption.js">CaesarCipherEncryption.js</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/CamelCase.cs">CamelCase.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/CamelCase.js">CamelCase.js</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/FunnyString.cs">FunnyString.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/FunnyString.js">FunnyString.js</a></li>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/GameOfThronesII.cs">GameOfThronesII.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/GameOfThronesII.js">GameOfThronesII.js</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/GemStones.cs">GemStones.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/GemStones.js">GemStones.js</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/GemStones.cs">GemStones.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/GemStones.js">GemStones.js</a></li>
 						</ul>
 					</li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/GameTheory">GameTheory</a></li>
