@@ -121,7 +121,12 @@
 		<ul>
 			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview">Cracking The Coding Interview</a>
 				<ul>
-					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/ArraysLeftRotation.cs">ArraysLeftRotation.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/ArraysLeftRotation.js">ArraysLeftRotation.js</a></li>
+					<li>
+						<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/ArraysLeftRotation.cs">ArraysLeftRotation.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/ArraysLeftRotation.js">ArraysLeftRotation.js</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/ArraysLeftRotation.java">ArraysLeftRotation.java</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/ArraysLeftRotation.py">ArraysLeftRotation.py</a>
+					</li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/BinarySearchIceCreamParlor.cs">BinarySearchIceCreamParlor.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/BinarySearchIceCreamParlor.js">BinarySearchIceCreamParlor.js</a></li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/BitManipulationLonelyInteger.cs">BitManipulationLonelyInteger.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/BitManipulationLonelyInteger.js">BitManipulationLonelyInteger.js</a></li>
 				</ul>
