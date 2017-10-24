@@ -133,6 +133,7 @@
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/DPCoinChange.cs">DPCoinChange.cs</a></li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/HashTablesRansomNote.cs">HashTablesRansomNote.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/HashTablesRansomNote.js">HashTablesRansomNote.js</a></li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/LinkedListsDetectaCycle.java">LinkedListsDetectaCycle.java</a></li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/MergeSortCountingInversions.cs">MergeSortCountingInversions.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/MergeSortCountingInversions.js">MergeSortCountingInversions.js</a></li>
 				</ul>
 			</li>
 		</ul>
