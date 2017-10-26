@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-<h2>C#, JavaScript, Java, SQL solutions to the HackerRank programming problems</h1>
+<h2>C#, JavaScript, Java, Python and SQL solutions to the HackerRank programming problems</h1>
 <ul>
 	<li><h3><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS">CORE COMPUTER SCIENCE</a></h3>
 		<ul>
@@ -136,6 +136,7 @@
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/MergeSortCountingInversions.cs">MergeSortCountingInversions.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/MergeSortCountingInversions.js">MergeSortCountingInversions.js</a></li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/QueuesATaleofTwoStacks.cs">QueuesATaleofTwoStacks.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/QueuesATaleofTwoStacks.js">QueuesATaleofTwoStacks.js</a></li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/RecursionDavisStaircase.cs">RecursionDavisStaircase.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/RecursionDavisStaircase.js">RecursionDavisStaircase.js</a></li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/RecursionFibonacciNumbers.cs">RecursionFibonacciNumbers.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/RecursionFibonacciNumbers.js">RecursionFibonacciNumbers.js</a></li>
 				</ul>
 			</li>
 		</ul>
