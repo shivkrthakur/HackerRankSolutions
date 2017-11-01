@@ -143,6 +143,7 @@
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/StringsMakingAnagrams.cs">StringsMakingAnagrams.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/StringsMakingAnagrams.js">StringsMakingAnagrams.js</a></li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/TimeComplexityPrimality.cs">TimeComplexityPrimality.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/TimeComplexityPrimality.js">TimeComplexityPrimality.js</a></li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/TreesIsThisaBinarySearchTree.cs">TreesIsThisaBinarySearchTree.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/TreesIsThisaBinarySearchTree.js">TreesIsThisaBinarySearchTree.js</a></li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/TriesContactscs">TriesContacts.cs</a></li>
 					
 				</ul>
 			</li>
