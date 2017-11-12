@@ -152,6 +152,16 @@
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/TriesContactscs">TriesContacts.cs</a></li>
 				</ul>
 			</li>
+			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/10DaysOfJavaScript">10 Days of JavaScript</a>
+				<ul>
+					<li>
+						<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/10DaysOfJavaScript/Day0HelloWorld!.js">Day 0: Hello World!.js</a>
+					</li>
+					<li>
+						<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/10DaysOfJavaScript/Day0DataTypes.js">Day 0: Data Types.js</a>
+					</li>
+				</ul>
+			</li>
 		</ul>
 	</li>
 </ul>
