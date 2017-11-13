@@ -124,7 +124,7 @@
 			</li>
 		</ul>
 	</li>
-	<li><h3><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Tutorials">Tutorials</a></h3>
+	<li><h3><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Tutorials">TUTORIALS</a></h3>
 		<ul>
 			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview">Cracking The Coding Interview</a>
 				<ul>
@@ -162,6 +162,13 @@
 					</li>
 				</ul>
 			</li>
+		</ul>
+	</li>
+	<li><h3><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Languages">LANGUAGES</a></h3>
+		<ul><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Languages/Python">PYTHON</a>
+			<ol><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Languages/Python/Introduction">INTRODUCTION</a>
+				<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/SayHelloWorld!WithPython.py">Say Hello World! withPython.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/SayHelloWorld!WithPython.py3">Say Hello World! with Python.py3</a></li>
+			</ol>
 		</ul>
 	</li>
 </ul>
