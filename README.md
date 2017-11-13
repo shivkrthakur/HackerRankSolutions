@@ -167,10 +167,12 @@
 	<li><h3><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Languages">LANGUAGES</a></h3>
 		<ul>
 			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python">Python</a>
-				<ol>
-					<a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Languages/Python/Introduction">Introduction</a>
-					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/SayHelloWorld!WithPython.py">Say Hello World! withPython.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/SayHelloWorld!WithPython.py3">Say Hello World! with Python.py3</a></li>
-				</ol>
+				<ul>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Languages/Python/Introduction">Introduction</a></li>
+					<ol>
+						<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/SayHelloWorld!WithPython.py">Say Hello World! withPython.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/SayHelloWorld!WithPython.py3">Say Hello World! with Python.py3</a></li>
+					</ol>
+				</ul>
 			</li>
 		</ul>
 	</li>
