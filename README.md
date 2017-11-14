@@ -10,7 +10,7 @@
 			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/DataStructures">Data Structures</a>
 				<ul>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/DataStructures/Arrays">Arrays</a>
-						<ol>
+						<ul>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/2DArray-DS.cs">2DArray-DS.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/2DArray-DS.js">2DArray-DS.js</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/ArrayManipulation.cs">ArrayManipulation.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/ArrayManipulation.js">ArrayManipulation.js</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/Arrays-DS.cs">Arrays-DS.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/Arrays-DS.js">Arrays-DS.js</a></li>
@@ -18,25 +18,25 @@
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/DynamicArray.cs">Dynamic Array.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/DynamicArray.js">Dynamic Array.js</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/LeftRotation.cs">Left Rotation.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/LeftRotation.js">Left Rotation.js</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/SparseArrays.cs">Sparse Arrays.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Arrays/SparseArrays.js">Sparse Arrays.js</a></li>
-						</ol>
+						</ul>
 					</li>
 				</ul>
 				<ul>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/DataStructures/Stacks">Stacks</a>
-						<ol>
+						<ul>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Stacks/BalancedBrackets.cs">BalancedBrackets.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Stacks/BalancedBrackets.js">BalancedBrackets.js</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Stacks/EqualStacks.cs">EqualStacks.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Stacks/EqualStacks.js">EqualStacks.js</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Stacks/MaximumElement.cs">MaximumElement.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Stacks/MaximumElement.js">MaximumElement.js</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Stacks/SimpleTextEditor.cs">SimpleTextEditor.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Stacks/SimpleTextEditor.js">SimpleTextEditor.js</a></li>
-						</ol>
+						</ul>
 					</li>
 				</ul>
 				<ul>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/DataStructures/Trees">Trees</a>
-						<ol>
+						<ul>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Trees/BinarySearchTreeInsertion.java">Binary SearchTree Insertion.java</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Trees/BinarySearchTreeLowestCommonAncestor.java">Binary Search Tree Lowest Common Ancestor.java</a></li>
-						</ol>
+						</ul>
 					</li>
 				</ul>
 			</li>
@@ -50,7 +50,7 @@
 			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms">Algorithms</a>
 				<ul>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/Strings">Strings</a>
-						<ol>
+						<ul>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/AlternatingCharacters.cs">Alternating Characters.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/AlternatingCharacters.js">Alternating Characters.js</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/Anagram.cs">Anagram.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/Anagram.js">Anagram.js</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/BeautifulBinaryString.cs">BeautifulBinaryString.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/BeautifulBinaryString.js">BeautifulBinaryString.js</a></li>
@@ -65,7 +65,7 @@
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/GemStones.cs">GemStones.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/GemStones.js">GemStones.js</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/MarsExploration.cs">MarsExploration.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/MarsExploration.js">MarsExploration.js</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/PalindromeIndex.cs">PalindromeIndex.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Algorithms/Strings/PalindromeIndex.js">PalindromeIndex.js</a></li>
-						</ol>
+						</ul>
 					</li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/GameTheory">GameTheory</a></li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/GraphTheory">GraphTheory</a></li>
@@ -76,16 +76,16 @@
 				</ul>
 			</li>
 			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Implementation">Implementation</a>
-				<ol>
+				<ul>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Implementation/BruteForce">Brute Force</a></li>
-				</ol>
+				</ul>
 			</li>
 			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Mathematics">Mathematics</a>
 				<ul>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals">Fundamentals</a>
-						<ol>
+						<ul>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals/FindthePoint.cs">FindthePoint.cs</a></li>
-						</ol>
+						</ul>
 					</li>
 				</ul>
 			</li>
@@ -124,7 +124,7 @@
 	<li><h3><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Tutorials">TUTORIALS</a></h3>
 		<ul>
 			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview">Cracking The Coding Interview</a>
-				<ol>
+				<ul>
 					<li>
 						<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/ArraysLeftRotation.cs">ArraysLeftRotation.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 						<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/ArraysLeftRotation.js">ArraysLeftRotation.js</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -147,13 +147,13 @@
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/TimeComplexityPrimality.cs">TimeComplexityPrimality.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/TimeComplexityPrimality.js">TimeComplexityPrimality.js</a></li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/TreesIsThisaBinarySearchTree.cs">TreesIsThisaBinarySearchTree.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/TreesIsThisaBinarySearchTree.js">TreesIsThisaBinarySearchTree.js</a></li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview/TriesContactscs">TriesContacts.cs</a></li>
-				</ol>
+				</ul>
 			</li>
 			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/10DaysOfJavaScript">10 Days of JavaScript</a>
-				<ol>
+				<ul>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/10DaysOfJavaScript/Day0HelloWorld!.js">Day 0: Hello World!.js</a></li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/10DaysOfJavaScript/Day0DataTypes.js">Day 0: Data Types.js</a></li>
-				</ol>
+				</ul>
 			</li>
 		</ul>
 	</li>
@@ -162,9 +162,9 @@
 			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python">Python</a>
 				<ul>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Languages/Python/Introduction">Introduction</a></li>
-					<ol	type="1">
+					<ul>
 						<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/SayHelloWorld!WithPython.py">Say Hello World! withPython.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/SayHelloWorld!WithPython.py3">Say Hello World! with Python.py3</a></li>
-					</ol>
+					</ul>
 				</ul>
 			</li>
 		</ul>
