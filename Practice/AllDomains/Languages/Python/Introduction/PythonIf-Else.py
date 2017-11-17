@@ -1,4 +1,4 @@
-/*	author:@shivkrthakur  */
+#/*	author:@shivkrthakur  */
 #!/bin/python
 
 import sys
