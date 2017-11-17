@@ -165,6 +165,7 @@
 					<ul>
 						<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/SayHelloWorld!WithPython.py">Say Hello World! withPython.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/SayHelloWorld!WithPython.py3">Say Hello World! with Python.py3</a></li>
 						<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/PythonIf-Else.py">Python:If-Else.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/PythonIf-Else.py3">PythonIf-Else.py3</a></li>
+						<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/ArithmeticOperators.py">ArithmeticOperators.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/ArithmeticOperators.py3">ArithmeticOperators.py3</a></li>
 					</ul>
 				</ul>
 			</li>
