@@ -175,6 +175,9 @@
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Languages/Python/BasicDataTypes">Basic Data Types</a>
 						<ul>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/Lists.py">Lists.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/Lists.py3">Lists.py3</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/Tuples.py">Tuples.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/Tuples.py3">Tuples.py3</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/ListComprehensions.py">ListComprehensions.py</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/FindtheSecondLargestNumber.py">FindtheSecondLargestNumber.py</a></li>
 						</ul>
 					</li>
 				</ul>
