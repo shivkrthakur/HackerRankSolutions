@@ -40,8 +40,13 @@
 					</li>
 				</ul>
 			</li>
-		</ul>
-		<ul>
+			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming">General Programming</a>
+				<ul>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming">Basic Programming</a></li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming/ObjectOrientedProgramming">Object-oriented Programming</a></li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming/RegEx">RegEx</a></li>
+				</ul>
+			</li>
 			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms">Algorithms</a>
 				<ul>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/Strings">Strings</a>
@@ -70,28 +75,20 @@
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Algorithms/Math">Math</a></li>
 				</ul>
 			</li>
-		</ul>
-		<ul>
-			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming">General Programming</a>
-				<ul>
-					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming">Basic Programming</a>
-					</li>
-					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming/ObjectOrientedProgramming">Object-oriented Programming</a>
-					</li>
-					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming/RegEx">RegEx</a>
-					</li>
-				</ul>
-			</li>
-		</ul>
-		<ul>
 			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Implementation">Implementation</a>
 				<ul>
-					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Implementation/BruteForce">Brute Force</a>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Implementation/BruteForce">Brute Force</a></li>
+				</ul>
+			</li>
+			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Mathematics">Mathematics</a>
+				<ul>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals">Fundamentals</a>
+						<ul>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals/FindthePoint.cs">FindthePoint.cs</a></li>
+						</ul>
 					</li>
 				</ul>
 			</li>
-		</ul>
-		<ul>
 			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Debugging">Debugging</a>
 				<ul>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Debugging/MissingLines">Missing Lines</a>
@@ -124,7 +121,7 @@
 			</li>
 		</ul>
 	</li>
-	<li><h3><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Tutorials">Tutorials</a></h3>
+	<li><h3><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Tutorials">TUTORIALS</a></h3>
 		<ul>
 			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Tutorials/CrackingTheCodingInterview">Cracking The Coding Interview</a>
 				<ul>
@@ -154,11 +151,34 @@
 			</li>
 			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/10DaysOfJavaScript">10 Days of JavaScript</a>
 				<ul>
-					<li>
-						<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/10DaysOfJavaScript/Day0HelloWorld!.js">Day 0: Hello World!.js</a>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/10DaysOfJavaScript/Day0HelloWorld!.js">Day 0: Hello World!.js</a></li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/10DaysOfJavaScript/Day0DataTypes.js">Day 0: Data Types.js</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li><h3><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Languages">LANGUAGES</a></h3>
+		<ul>
+			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python">Python</a>
+				<ul>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Languages/Python/Introduction">Introduction</a>
+						<ul>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/SayHelloWorld!WithPython.py">Say Hello World! withPython.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/SayHelloWorld!WithPython.py3">Say Hello World! with Python.py3</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/PythonIf-Else.py">Python:If-Else.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/PythonIf-Else.py3">PythonIf-Else.py3</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/ArithmeticOperators.py">ArithmeticOperators.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/ArithmeticOperators.py3">ArithmeticOperators.py3</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/PythonDivision.py">Python:Division.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/PythonDivision.py3">Python:Division.py3</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/Loops.py">Loops.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/Loops.py3">Loops.py3</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/Writeafunction.py">Write a function.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/Writeafunction.py3">Write a function.py3</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/PrintFunction.py">Print Function.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Introduction/PrintFunction.py3">Print Function.py3</a></li>
+						</ul>
 					</li>
-					<li>
-						<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/10DaysOfJavaScript/Day0DataTypes.js">Day 0: Data Types.js</a>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Languages/Python/BasicDataTypes">Basic Data Types</a>
+						<ul>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/Lists.py">Lists.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/Lists.py3">Lists.py3</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/Tuples.py">Tuples.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/Tuples.py3">Tuples.py3</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/ListComprehensions.py">ListComprehensions.py</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/FindtheSecondLargestNumber.py">FindtheSecondLargestNumber.py</a></li>
+						</ul>
 					</li>
 				</ul>
 			</li>
