@@ -153,6 +153,8 @@
 				<ul>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/10DaysOfJavaScript/Day0HelloWorld!.js">Day 0: Hello World!.js</a></li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/10DaysOfJavaScript/Day0DataTypes.js">Day 0: Data Types.js</a></li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/10DaysOfJavaScript/Day1ArithmeticOperators.js">Day 1: Arithmetic Operators.js</a></li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Tutorials/10DaysOfJavaScript/Day1Functions.js">Day 1: Functions.js</a></li>
 				</ul>
 			</li>
 		</ul>
