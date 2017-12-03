@@ -85,6 +85,7 @@
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals">Fundamentals</a>
 						<ul>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals/FindthePoint.cs">FindthePoint.cs</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals/MaximumDraws.cs">MaximumDraws.cs</a></li>
 						</ul>
 					</li>
 				</ul>
