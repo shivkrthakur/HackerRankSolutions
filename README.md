@@ -188,6 +188,7 @@
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/ListComprehensions.py">ListComprehensions.py</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/FindtheSecondLargestNumber.py">FindtheSecondLargestNumber.py</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/NestedLists.py">NestedLists.py</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/Findingthepercentage.py">Findingthepercentage.py</a></li>
 						</ul>
 					</li>
 				</ul>
