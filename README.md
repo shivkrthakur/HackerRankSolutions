@@ -192,9 +192,10 @@
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/Findingthepercentage.py">Findingthepercentage.py</a></li>
 						</ul>
 					</li>
-					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Languages/Python/String">String</a>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/Languages/Python/Strings">Strings</a>
 						<ul>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/String/sWAPcASE.py">sWAPcASE.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/BasicDataTypes/sWAPcASE.py3">sWAPcASE.py3</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Strings/sWAPcASE.py">sWAPcASE.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Strings/sWAPcASE.py3">sWAPcASE.py3</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Strings/sWAPcASE.py">sWAPcASE.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Strings/StringSplitandJoin.py3">StringSplitandJoin.py3</a></li>
 						</ul>
 					</li>
 				</ul>
