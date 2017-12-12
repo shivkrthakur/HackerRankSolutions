@@ -199,6 +199,7 @@
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Strings/WhatsYourName.py">WhatsYourName.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Strings/WhatsYourName.py3">WhatsYourName.py3</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Strings/Mutations.py">Mutations.py</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Strings/Mutations.py3">Mutations.py3</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Strings/Findastring.py">Findastring.py</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Strings/StringValidators.py">StringValidators.py</a></li>
 						</ul>
 					</li>
 				</ul>
