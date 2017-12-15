@@ -204,6 +204,7 @@
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Strings/DesignerDoorMat.py">DesignerDoorMat.py</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Strings/Capitalize.py">Capitalize.py</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Strings/StringFormatting.py">StringFormatting.py</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/Languages/Python/Strings/TheMinionGame.py">TheMinionGame.py</a></li>
 						</ul>
 					</li>
 				</ul>
