@@ -98,6 +98,7 @@
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals/SummingtheNseries.cs">SummingtheNseries.cs</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals/SherlockandPermutations.cs">SherlockandPermutations.cs</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals/SherlockandMovingTiles.cs">SherlockandMovingTiles.cs</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals/StrangeGridAgain.cs">StrangeGridAgain.cs</a></li>
 						</ul>
 					</li>
 				</ul>
