@@ -9,7 +9,6 @@ class Solution {
         int queries = Convert.ToInt32(Console.ReadLine().Trim());
         for(int counter = 0; counter < queries; counter++)
         {
-            //int [] inputArr  = Array.ConvertAll(Console.ReadLine().Trim().Split(), Int32.Parse);
             BigInteger[] inputArr = Array.ConvertAll(Console.ReadLine().Trim().Split(), BigInteger.Parse);
             BigInteger aa = inputArr[0];
             BigInteger bb = inputArr[1];
