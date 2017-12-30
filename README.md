@@ -44,7 +44,7 @@
 				<ul>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming">Basic Programming</a>
 						<ul>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming/AVeryBigSum.cs">AVeryBigSum.cs</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming/AVeryBigSum.cs">AVeryBigSum.cs</a>|<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming/AVeryBigSum.js">AVeryBigSum.js</a></li>
 						</ul>
 					</li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming/ObjectOrientedProgramming">Object-oriented Programming</a></li>
