@@ -42,12 +42,7 @@
 			</li>
 			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming">General Programming</a>
 				<ul>
-					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming">Basic Programming</a>
-						<ul>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming/AVeryBigSum.cs">AVeryBigSum.cs</a>|<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming/AVeryBigSum.js">AVeryBigSum.js</a></li>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming/CompareTheTriplets.cs">CompareTheTriplets.cs</a>|<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming/CompareTheTriplets.js">CompareTheTriplets.js</a></li>
-						</ul>
-					</li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming">Basic Programming</a></li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming/ObjectOrientedProgramming">Object-oriented Programming</a></li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming/RegEx">RegEx</a></li>
 				</ul>
@@ -107,8 +102,7 @@
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals/RussianPeasantExponentiation.cs">RussianPeasantExponentiation.cs</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals/BestDivisor.cs">BestDivisor.cs</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals/Restaurant.cs">Restaurant.cs</a></li>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals/SherlockandDivisors.cs">SherlockandDivisors.cs</a></li>
-							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals/EvenOddQuery.cs">EvenOddQuery.cs</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals/ReverseGame.cs">ReverseGame.cs</a></li>
 						</ul>
 					</li>
 				</ul>
