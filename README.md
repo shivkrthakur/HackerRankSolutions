@@ -38,6 +38,8 @@
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Trees/BinarySearchTreeLowestCommonAncestor.java">Binary Search Tree Lowest Common Ancestor.java</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Trees/IsThisaBinarySearchTree.java">Is This a Binary Search Tree.java</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Trees/TreeHeightofaBinaryTree.java">Tree Height of a Binary Tree.java</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Trees/TreeHuffmanDecoding.java">Tree Huffman Decoding.java</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Trees/TreeInorderTraversal.java">Tree Inorder Traversal.java</a></li>
 						</ul>
 					</li>
 				</ul>
