@@ -41,6 +41,7 @@
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Trees/TreeHuffmanDecoding.java">Tree Huffman Decoding.java</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Trees/TreeInorderTraversal.java">Tree Inorder Traversal.java</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Trees/TreeLevelOrderTraversal.java">Tree Level Order Traversal.java</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/DataStructures/Trees/TreePostorderTraversal.java">Tree Post order Traversal.java</a></li>
 						</ul>
 					</li>
 				</ul>
