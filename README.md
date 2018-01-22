@@ -116,6 +116,11 @@
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/Fundamentals/PossiblePath.cs">PossiblePath.cs</a></li>
 						</ul>
 					</li>
+					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Mathematics/NumberTheory">Number Theory</a>
+						<ul>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/NumberTheory/IdentifySmithNumbers.cs">Identify Smith Numbers.cs</a></li>
+						</ul>
+					</li>
 				</ul>
 			</li>
 			<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/Debugging">Debugging</a>
