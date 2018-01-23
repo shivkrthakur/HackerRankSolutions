@@ -53,6 +53,7 @@
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming">Basic Programming</a>
 						<ul>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming/AVeryBigSum.cs">A Very Big Sum.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming/AVeryBigSum.js">A Very Big Sum.js</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming/CompareTheTriplets.cs">Compare The Triplets.cs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/GeneralProgramming/BasicProgramming/CompareTheTriplets.js">Compare The Triplets.js</a></li>
 						</ul>
 					</li>
 					<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/tree/master/Practice/AllDomains/CoreCS/GeneralProgramming/ObjectOrientedProgramming">Object-oriented Programming</a></li>
