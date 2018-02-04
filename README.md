@@ -125,6 +125,7 @@
 						<ul>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/NumberTheory/IdentifySmithNumbers.cs">Identify Smith Numbers.cs</a></li>
 							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/NumberTheory/ClosestNumber.cs">Closest Number.cs</a></li>
+							<li><a href="https://github.com/shivkrthakur/HackerRankSolutions/blob/master/Practice/AllDomains/CoreCS/Mathematics/NumberTheory/MehtaandhisLaziness.cs">Mehta and his Laziness.cs</a></li>
 						</ul>
 					</li>
 				</ul>
