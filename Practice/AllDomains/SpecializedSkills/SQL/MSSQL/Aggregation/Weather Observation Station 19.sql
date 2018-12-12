@@ -88,6 +88,8 @@ insert into @Station Values (1,'Pfeifer','KS',37.4447804700,65.6849125200), (3,'
 select cast(SQRT(power(abs(C - A),2) + power(abs(D - B),2)) as numeric(32,4)) from (SELECT min(LAT_N) as A, max(LAT_N) as B, min(LONG_W) as C,  max(LONG_W) as D from @Station)x;
 
 /* Hackerrank accepted solution:
-select cast(SQRT(power(abs(C - A),2) + power(abs(D - B),2)) as numeric(32,4)) from (SELECT min(LAT_N) as A, max(LAT_N) as B, min(LONG_W) as C,  max(LONG_W) as D from STATION)x;
+WRONG :select cast(SQRT(power(abs(C - A),2) + power(abs(D - B),2)) as numeric(32,4)) from (SELECT min(LAT_N) as A, max(LAT_N) as B, min(LONG_W) as C,  max(LONG_W) as D from STATION)x;
 Output: 19.8870
+CORRECTED :select cast(SQRT(power(abs(A - B),2) + power(abs(D - C),2)) as numeric(32,4)) from (SELECT MAX(LAT_N) as A, MIN(LAT_N) as B, min(LONG_W) as C,  max(LONG_W) as D from STATION)x;
+OUTPUT: 184.1616
 */
