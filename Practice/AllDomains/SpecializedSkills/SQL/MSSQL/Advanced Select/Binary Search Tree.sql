@@ -13,7 +13,7 @@ insert into @BST Values (1,2), (3,2), (5,6), (7,6), (2,4), (6,4), (4,15), (8,9),
 
 select  N
     ,   Case 
-            WHEN P IS NULL THEN 'Root'
+            WHEN P = 0 THEN 'Root'
             WHEN not exists (select N from @BST where P = B1.N ) THEN 'Leaf'
             WHEN exists(select N from @BST where P = B1.N) THEN  'Inner'
         END  
