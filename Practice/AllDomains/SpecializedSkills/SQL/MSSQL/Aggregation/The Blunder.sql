@@ -14,6 +14,9 @@ insert into @EMployees Values (1,'Ashley',2340), (2,'Julia',1198), (3,'Britney',
 
 select cast(CEILING(avg(cast(salary as float)) - avg(cast(replace(salary,0,'') as float))) as int) from @EMployees
 
+/*MS SQL SERVER QUERY*/
+SELECT CAST(CEILING(AVG(CAST(salary AS FLOAT)) - AVG(CAST(REPLACE(salary, '0', '')AS FLOAT))) AS INT) FROM employees;
+                                                     
 /* Hackerrank accepted solution:
 select cast(CEILING(avg(cast(salary as float)) - avg(cast(replace(salary,0,'') as float))) as int) from employees
 Output: 2253
