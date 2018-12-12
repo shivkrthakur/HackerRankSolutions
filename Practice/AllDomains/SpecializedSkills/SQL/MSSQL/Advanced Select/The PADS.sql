@@ -15,9 +15,10 @@ insert into @Occupations Values ('Ashley','Professor'), ('Samantha','Actor'), ('
 
 --select * from @Occupations
 
-select Name + '(' + left(occupation,1) + ')' from @OCCUPATIONS order by name;
-
-select 'There are total ' + Cast(Count(Occupation) as Varchar(5)) + ' ' + lower(Occupation) + 's.'
-from @Occupations
-group by Occupation
-order by count(occupation), occupation;
+SELECT CONCAT(NAME,'(',SUBSTRING(OCCUPATION,1,1),')') AS N
+FROM OCCUPATIONS
+ORDER BY N;
+SELECT CONCAT('There are a total of ',COUNT(OCCUPATION),' ',LOWER(OCCUPATION),'s.')
+FROM OCCUPATIONS
+GROUP BY OCCUPATION
+ORDER BY COUNT(OCCUPATION), OCCUPATION;
