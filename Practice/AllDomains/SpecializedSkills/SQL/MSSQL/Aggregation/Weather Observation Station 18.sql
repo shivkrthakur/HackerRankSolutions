@@ -88,9 +88,9 @@ insert into @Station Values (1,'Pfeifer','KS',37.4447804700,65.6849125200), (3,'
 (983,'Patriot','IN',82.6379508400,46.0835493200), (985,'Winslow','AR',126.1369390000,126.1174067000), (987,'Hartland','MI',136.2638918000,107.7380670000), (988,'Mullan','ID',143.2982072000,154.6730256000), (990,'Bison','KS',132.2279842000,74.8929007900), (994,'Kanorado','KS',65.4207842400,85.7224923200), (996,'Keyes','CA',76.9679430400,85.6062989900), (998,'Oakfield','ME',47.6576232100,132.2118817000) 
 --select * from @Station order by 1
 
-select cast(abs(a-c) + abs(b-d) as numeric(32,4)) from (select MIN(LAT_N) as a, MAX(LAT_N) as b, MIN(LONG_W) as c, MAX(LONG_W) as d from @Station)x
+select cast(abs(a-c) + abs(b-d) as numeric(32,4)) from (select MAX(LAT_N) as a, MIN(LAT_N) as b, MIN(LONG_W) as c, MAX(LONG_W) as d from @Station)x
 
 /* Hackerrank accepted solution:
-select cast(abs(a-c) + abs(b-d) as numeric(32,4)) from (select MIN(LAT_N) as a, MAX(LAT_N) as b, MIN(LONG_W) as c, MAX(LONG_W) as d from STATION)x
+select cast(abs(a-c) + abs(b-d) as numeric(32,4)) from (select MAX(LAT_N) as a, MIN(LAT_N) as b, MIN(LONG_W) as c, MAX(LONG_W) as d from STATION)x
 Output: 19.9191
 */
