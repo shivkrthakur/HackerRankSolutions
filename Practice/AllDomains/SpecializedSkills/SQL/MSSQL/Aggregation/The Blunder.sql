@@ -15,6 +15,7 @@ insert into @EMployees Values (1,'Ashley',2340), (2,'Julia',1198), (3,'Britney',
 select cast(CEILING(avg(cast(salary as float)) - avg(cast(replace(salary,0,'') as float))) as int) from @EMployees
 
 /* Hackerrank accepted solution:
-select cast(CEILING(avg(cast(salary as float)) - avg(cast(replace(salary,0,'') as float))) as int) from employees
-Output: 2253
+select ceil(avg(Salary) - avg(replace(Salary, '0', '')))
+from EMPLOYEES;
+
 */
